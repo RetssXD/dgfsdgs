@@ -178304,6 +178304,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 patreon.com
 0.0.0.0 mythicmanor.com
 0.0.0.0 www.mythicmanor.com
+0.0.0.0 www.nc.com
+0.0.0.0 nc.com
+0.0.0.0 www.renpy.org
+0.0.0.0 renpy.org
+0.0.0.0 kipchu.wordpress.com
+0.0.0.0 www.kipchu.wordpress.com
 
 # blacklist
 #
