@@ -71978,7 +71978,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 rev.avsforum.com
 0.0.0.0 analytics.aweber.com
 # 0.0.0.0 clicks.aweber.com #[affects newsletters]
-# [B]
 0.0.0.0 banerator.net
 0.0.0.0 www.banner-rotation.com
 0.0.0.0 match.basebanner.com
@@ -72289,7 +72288,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 dserver.hw.net
 0.0.0.0 www.hxtrack.com
 0.0.0.0 www.hypertracker.com #[Tracking.Cookie]
-# [I]
 0.0.0.0 ev.ib-ibi.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbcdn-tag.ibillboard.com
@@ -72334,7 +72332,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.itcompany.com #[Riskware/PUP]
 0.0.0.0 stats.itweb.co.za
 0.0.0.0 link.ixs1.net #[WebBug]
-# [J]
 0.0.0.0 ad.jamster.com
 0.0.0.0 ad.janalta.com
 0.0.0.0 adserver.janesguide.com
@@ -72348,7 +72345,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 js.juicyads.com
 0.0.0.0 nl.ads.justpremium.com
 0.0.0.0 ads.justrelevant.com
-# [K]
 0.0.0.0 ads.kaldata.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 stats.kaltura.com
@@ -72358,7 +72354,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 adsby.klikki.com
 0.0.0.0 images.kolmic.com
 0.0.0.0 ads.kozmetika-bg.com
-# [L]
 0.0.0.0 layer-ad.org
 0.0.0.0 ads.layer-ad.org
 0.0.0.0 lead-123.com
@@ -72481,7 +72476,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 nxtck.com
 0.0.0.0 p.nxtck.com
 0.0.0.0 ads.nyi.net
-# [O]
 0.0.0.0 www18.officedepot.com #[WebBug.eluminate]
 0.0.0.0 ads.ogdenpubs.com
 0.0.0.0 ads.olx.com
@@ -72502,7 +72496,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.oreware.com
 0.0.0.0 otracking.com
 0.0.0.0 pub.oxado.com
-# [P]
 0.0.0.0 www.pagerank10.co.uk
 0.0.0.0 parkingcrew.net #[Parking.Service]
 0.0.0.0 www.parkingcrew.net
@@ -72612,7 +72605,6 @@ ff02::3 ip6-allhosts
 # 0.0.0.0 runslin.com
 0.0.0.0 banners.rushcommerce.com
 0.0.0.0 rutrk.org
-# [S]
 0.0.0.0 www.s2d6.com
 0.0.0.0 s4le.net
 0.0.0.0 dt.scanscout.com
@@ -72752,7 +72744,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 twittercounter.com
 0.0.0.0 et.twyn.com
 0.0.0.0 tracknet.twyn.com
-# [U]
 0.0.0.0 a.ucoz.net
 0.0.0.0 s212.ucoz.net
 0.0.0.0 ucounter.ucoz.net
@@ -72779,7 +72770,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.usenetjunction.com
 0.0.0.0 ads.usercash.com
 0.0.0.0 www.utarget.co.uk #[utarget Ad code]
-# [V]
 0.0.0.0 ads.vador.com
 0.0.0.0 feed.validclick.com
 0.0.0.0 ad.jp.ap.valuecommerce.com #[WebBug]
@@ -72807,7 +72797,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.v-links.net
 0.0.0.0 ads.vporn.com
 0.0.0.0 www.vstats.net
-# [W]
 0.0.0.0 beacon.walmart.ca
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.affil.walmart.com
@@ -72845,7 +72834,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 admedia.wsod.com
 0.0.0.0 wtvertnet.com
 0.0.0.0 www.wysistat.com
-# [X]
 0.0.0.0 engine.xclaimwords.net
 0.0.0.0 hr-engine.xclaimwords.net
 0.0.0.0 148.xg4ken.com
@@ -177607,9 +177595,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 www2.giga-jp.com
 0.0.0.0 yamidas.yamiboard.com
 0.0.0.0 yamigama.com
+0.0.0.0 www.yamigama.com
 0.0.0.0 e.erovoice.us
+0.0.0.0 www.e.erovoice.us
 0.0.0.0 erovoice.us
+0.0.0.0 www.erovoice.us
 0.0.0.0 ph.com
+0.0.0.0 www.ph.com
 0.0.0.0 ryuugames.com
 0.0.0.0 www.h-suki.com
 0.0.0.0 h-suki.com
@@ -177618,8 +177610,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 vndb.org
 0.0.0.0 www.vndb.org
 0.0.0.0 hentaigeek.com
+0.0.0.0 www.hentaigeek.com
 0.0.0.0 pantyhoseme.com
+0.0.0.0 www.pantyhoseme.com
 0.0.0.0 preview.hentaikey.com
+0.0.0.0 www.preview.hentaikey.com
 0.0.0.0 hentaidatia.com
 0.0.0.0 wwww.hentaidatia.com
 0.0.0.0 www.anime-store.fr
@@ -177963,6 +177958,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 otakufans.cc
 0.0.0.0 www.otakufans.cc
 0.0.0.0 dearestie.xyz
+0.0.0.0 www.dearestie.xyz
 0.0.0.0 www.dearestie.xyz
 0.0.0.0 cover.ggbases.com
 0.0.0.0 manhwaclan.com
@@ -178503,10 +178499,85 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.hentaienvy.com
 0.0.0.0 sora.la
 0.0.0.0 www.sora.la
-0.0.0.0 9hentai.net
-0.0.0.0 www.9hentai.net
-0.0.0.0 9hentai.org
 0.0.0.0 www.9hentai.org
+0.0.0.0 mytopdater.com
+0.0.0.0 www.mytopdater.com
+0.0.0.0 qureate.co.jp
+0.0.0.0 www.qureate.co.jp
+0.0.0.0 dicashnet.it
+0.0.0.0 www.dicashnet.it
+0.0.0.0 www.dt-tl-us.com
+0.0.0.0 dt-tl-us.com
+0.0.0.0 komfortplus.ks.ua
+0.0.0.0 www.komfortplus.ks.ua
+0.0.0.0 crystalia.amusecraft.com
+0.0.0.0 www.crystalia.amusecraft.com
+0.0.0.0 notaires-cachan.fr
+0.0.0.0 www.notaires-cachan.fr
+0.0.0.0 platinmods.com
+0.0.0.0 www.platinmods.com
+0.0.0.0 www.nijiyome.com
+0.0.0.0 nijiyome.com
+0.0.0.0 www.asmrgay.com
+0.0.0.0 asmrgay.com
+0.0.0.0 ci-en.net
+0.0.0.0 www.ci-en.net
+0.0.0.0 dl-info.com
+0.0.0.0 www.dl-info.com
+0.0.0.0 acgdb.de
+0.0.0.0 www.acgdb.de
+0.0.0.0 bangumi.tv
+0.0.0.0 www.bangumi.tv
+0.0.0.0 cs.dlsite.com
+0.0.0.0 www.cs.dlsite.com
+0.0.0.0 www.opennsfw.carrd.co
+0.0.0.0 opennsfw.carrd.co
+0.0.0.0 www.otomekoe.moe
+0.0.0.0 otomekoe.moe
+0.0.0.0 coomer.st
+0.0.0.0 www.coomer.st
+0.0.0.0 lewdflix.com
+0.0.0.0 www.lewdflix.com
+0.0.0.0 f95zone.to.it
+0.0.0.0 www.f95zone.to.it
+0.0.0.0 erectlip.amusecraft.com
+0.0.0.0 www.erectlip.amusecraft.com
+0.0.0.0 www.ordin-shop.com
+0.0.0.0 ordin-shop.com
+0.0.0.0 nexton-net.jp
+0.0.0.0 www.nexton-net.jp
+0.0.0.0 norn-soft.com
+0.0.0.0 www.norn-soft.com
+0.0.0.0 www.miel-soft.com
+0.0.0.0 miel-soft.com
+0.0.0.0 cherrykissgames.com
+0.0.0.0 www.cherrykissgames.com
+0.0.0.0 www.parallel-soft.net
+0.0.0.0 parallel-soft.net
+0.0.0.0 shiravune.com
+0.0.0.0 www.shiravune.com
+0.0.0.0 www.milkfactory.jp
+0.0.0.0 milkfactory.jp
+0.0.0.0 htranslations.com
+0.0.0.0 www.htranslations.com
+0.0.0.0 www.empress-game.com
+0.0.0.0 empress-game.com
+0.0.0.0 www.kikenn.sakura.ne.jp
+0.0.0.0 kikenn.sakura.ne.jp
+0.0.0.0 www.astronauts.co.jp
+0.0.0.0 astronauts.co.jp
+0.0.0.0 www.getchu.com
+0.0.0.0 getchu.com
+0.0.0.0 www.hs-crowd.co.jp
+0.0.0.0 hs-crowd.co.jp
+0.0.0.0 072project.com
+0.0.0.0 www.072project.com
+0.0.0.0 liquid.nexton-net.jp
+0.0.0.0 www.liquid.nexton-net.jp
+0.0.0.0 www.pin-point.biz
+0.0.0.0 pin-point.biz
+0.0.0.0 anidb.net
+0.0.0.0 www.anidb.net
 
 # blacklist
 #
